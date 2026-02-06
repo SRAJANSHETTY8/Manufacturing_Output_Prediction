@@ -127,7 +127,3 @@ The system can be enhanced by using advanced machine learning algorithms. Additi
 Conclusion
 
 This project demonstrates how machine learning can be applied to manufacturing industries to improve productivity and operational decision making. The system provides a complete workflow from data processing to real time prediction through a web application.
-
-Developer
-
-Developed by Srajan Shetty
