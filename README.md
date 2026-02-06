@@ -127,3 +127,11 @@ The system can be enhanced by using advanced machine learning algorithms. Additi
 Conclusion
 
 This project demonstrates how machine learning can be applied to manufacturing industries to improve productivity and operational decision making. The system provides a complete workflow from data processing to real time prediction through a web application.
+
+
+Live Application
+
+Frontend: <https://manufacturing-output-prediction-1.onrender.com/>
+
+Backend API Documentation: <[backend docs lin(https://manufacturing-output-prediction.onrender.com/docs#/default/predict_predict_post)>
+
